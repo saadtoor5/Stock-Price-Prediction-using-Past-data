@@ -34,11 +34,12 @@ This beginner-friendly machine learning project demonstrates how to build a regr
 ```
 stock-price-prediction/
 ├── stock_prediction.py         # Main script
+├── stock_prediction.ipynb      # Jupyter notebook file     
 ├── README.md                   # Project overview
 ├── LICENSE                     # MIT License
 ├── requirements.txt            # Required libraries
 ├── images/
-│   └── actual_vs_predicted.png # Output chart visualization
+│   └── training.png # Output chart visualization
 └── stock_prices_500.csv        # Sample stock price data
 ```
 
